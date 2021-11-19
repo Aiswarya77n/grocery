@@ -1,0 +1,111 @@
+{
+    "people":[
+        {
+            "itemno": "1",
+            "name": "Milk",
+            "quantity": "1",
+            "unit": "litre",
+            "department":"dairy",
+            "notes":"Milma",
+            "price":"65"
+        },
+
+        {
+            "itemno":"2",
+            "name":"Cofee powder",
+            "quantity":"300",
+            "unit":"gram",
+            "department":"grocery",
+            "notes":"Bru",
+            "price":"100"
+        },
+
+        {
+            "itemno":"3",
+            "name":"Sugar",
+            "quantity":"2",
+            "unit":"Kg",
+            "department":"grocery",
+            "notes":"Brown",
+            "price":"250"
+        },
+
+        {
+            "itemno":"4",
+            "name":"Rice",
+            "quantity":"10",
+            "unit":"kg",
+            "department":"grocery",
+            "notes":"Robinhood",
+            "price":"550"
+        },
+
+
+        {
+            "itemno":"5",
+            "name":"Curd",
+            "quantity":"500",
+            "unit":"Gram",
+            "department":"dairy",
+            "notes":"Milma",
+            "price":"40"
+        },
+
+
+        {
+            "itemno":"6",
+            "name":"chilly",
+            "quantity":"100",
+            "unit":"gram",
+            "department":"Vegetables",
+            "notes":"Organic",
+            "price":"20"
+        },
+
+
+        {
+            "itemno":"7",
+            "name":"Sault",
+            "quantity":"500",
+            "unit":"Gram",
+            "department":"Grocery",
+            "notes":"Pink sault",
+            "price":"100"
+        },
+
+
+        {
+            "itemno":"8",
+            "name":"Tomato",
+            "quantity":"1",
+            "unit":"kg",
+            "department":"vegetables",
+            "notes":"fresh",
+            "price":"85"
+        },
+
+
+        {
+            "itemno":"9",
+            "name":"Fish",
+            "quantity":"2",
+            "unit":"kg",
+            "department":"meats",
+            "notes":"Salmon",
+            "price":"250"
+        },
+
+
+        {
+            "itemno":"10",
+            "name":"Oats",
+            "quantity":"2",
+            "unit":"kg",
+            "department":"grocery",
+            "notes":"Rolled oats",
+            "price":"450"
+        }
+
+    ]
+}
+               
